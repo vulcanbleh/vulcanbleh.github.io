@@ -1,0 +1,1256 @@
+{v0.1}
+0.0 0.0 0.0 
+0.0
+58
+# 赤ピクミン 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	144 212 131 115 131 78 131 126 131 147 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # 赤ピクミン 
+	-246.884995 80.0 1100.105957 # Position 
+	0 0.0 0 # Offset 
+	{piki} {0001} 
+	{
+		{p000} 4 1 
+		{p001} 4 20 
+		{p002} 4 0 
+		{_eof}
+	}
+}
+# 青ピクミン 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	144 194 131 115 131 78 131 126 131 147 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # 青ピクミン 
+	-510.868011 80.0 886.487 # Position 
+	0 0.0 0 # Offset 
+	{piki} {0001} 
+	{
+		{p000} 4 0 
+		{p001} 4 20 
+		{p002} 4 0 
+		{_eof}
+	}
+}
+# 青ピクミン（yakushima_4用） 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	144 194 131 115 131 78 131 126 131 147 129 105 121 97 107 117 115 104 105 109 97 95 52 151 112 129 106 0 205 205 205 205 # 青ピクミン（yakushima_4用） 
+	-50.0 -50.0 -3400.0 # Position 
+	0 0.0 0 # Offset 
+	{piki} {0001} 
+	{
+		{p000} 4 0 
+		{p001} 4 20 
+		{p002} 4 0 
+		{_eof}
+	}
+}
+# 黄ピクミン 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	137 169 131 115 131 78 131 126 131 147 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # 黄ピクミン 
+	-264.984009 80.0 739.617981 # Position 
+	0 0.0 0 # Offset 
+	{piki} {0001} 
+	{
+		{p000} 4 2 
+		{p001} 4 20 
+		{p002} 4 0 
+		{_eof}
+	}
+}
+# 白ピクミン 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	148 146 131 115 131 78 131 126 131 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 白ピクミン 
+	-600.0 80.0 700.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{piki} {0001} 
+	{
+		{p000} 4 4 
+		{p001} 4 10 
+		{p002} 4 0 
+		{_eof}
+	}
+}
+# 黒ピクミン 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	141 149 131 115 131 78 131 126 131 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 黒ピクミン 
+	-600.0 80.0 700.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{piki} {0001} 
+	{
+		{p000} 4 3 
+		{p001} 4 10 
+		{p002} 4 0 
+		{_eof}
+	}
+}
+# カビダマ５Ｋ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	131 74 131 114 131 95 131 125 130 84 130 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # カビダマ５Ｋ 
+	509.0 19.492132 -995.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{rock} # Item ID 
+		0.000000 -150.000000 0.000000 # rotation 
+		{0000} # item local version 
+	}
+	{
+		{_eof}
+	}
+}
+# 橋ロング１Ｊ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	139 180 131 141 131 147 131 79 130 80 130 105 0 79 129 106 0 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 橋ロング１Ｊ 
+	-2159.0 -37.0 -857.0 # Position 
+	0 0.0 0 # Offset 
+	{item} {0002} 
+	{
+		{brdg} # Item ID 
+		0.0 35.0 0.0 # rotation 
+		{0001} # item local version 
+		2 # Bridge type: 0=short, 1=slanted, 2=long 
+	}
+	{
+		{_eof}
+	}
+}
+# 橋ロング７Ｈ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	139 180 131 141 131 147 131 79 130 86 130 103 0 79 129 106 0 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 橋ロング７Ｈ 
+	1431.0 -22.1 404.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{brdg} # Item ID 
+		0.000000 17.000000 0.000000 # rotation 
+		{0001} # item local version 
+		2 # Bridge type: 0=short, 1=slanted, 2=long 
+	}
+	{
+		{_eof}
+	}
+}
+# 橋ロング５Ｊ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	139 180 131 141 131 147 131 79 130 84 130 105 0 105 0 103 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 橋ロング５Ｊ 
+	326.0 25.32363 -759.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{brdg} # Item ID 
+		0.000000 0.000000 0.000000 # rotation 
+		{0001} # item local version 
+		2 # Bridge type: 0=short, 1=slanted, 2=long 
+	}
+	{
+		{_eof}
+	}
+}
+# ゲート２Ｇ（ハード・水の中） 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	131 81 129 91 131 103 130 81 130 102 129 105 131 110 129 91 131 104 129 69 144 133 130 204 146 134 129 106 0 0 0 0 # ゲート２Ｇ（ハード・水の中） 
+	-1180.0 -57.0 980.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{gate} # Item ID 
+		0.000000 0.000000 0.000000 # rotation 
+		{0002} # item local version 
+		43000.000000 # Gate Health 
+		1 # Color: 0=bright, 1=dark 
+	}
+	{
+		{_eof}
+	}
+}
+# ゲート２Ｍ（ハード・水の中） 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	131 81 129 91 131 103 130 81 130 108 129 105 131 110 129 91 131 104 129 69 144 133 130 204 146 134 129 106 0 0 0 0 # ゲート２Ｍ（ハード・水の中） 
+	-1510.0 -57.0 -2550.0 # Position 
+	0 0.0 0 # Offset 
+	{item} {0002} 
+	{
+		{gate} # Item ID 
+		0.0 0.0 0.0 # rotation 
+		{0002} # item local version 
+		43000.000000 # Gate Health 
+		1 # Color: 0=bright, 1=dark 
+	}
+	{
+		{_eof}
+	}
+}
+# ガスゲート４Ｋ（ソフト） 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	131 75 131 88 131 81 129 91 131 103 130 83 130 106 129 105 131 92 131 116 131 103 129 106 0 0 0 0 0 0 0 0 # ガスゲート４Ｋ（ソフト） 
+	-390.0 89.010002 -1290.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{gate} # Item ID 
+		0.000000 170.000000 0.000000 # rotation 
+		{0002} # item local version 
+		10000.000000 # Gate Health 
+		0 # Color: 0=bright, 1=dark 
+	}
+	{
+		{_eof}
+	}
+}
+# 電撃ゲート２Ｍ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	147 100 140 130 131 81 129 91 131 103 130 81 130 108 0 130 129 106 0 205 205 205 205 205 205 205 205 205 205 205 205 205 # 電撃ゲート２Ｍ 
+	-1162.0 -37.490002 -2375.0 # Position 
+	0 0.0 0 # Offset 
+	{item} {0002} 
+	{
+		{dgat} # Item ID 
+		0.0 -3.0 0.0 # rotation 
+		{0000} # item local version 
+		16000.000000 # Gate Health 
+	}
+	{
+		{_eof}
+	}
+}
+# 電撃ゲート１Ｌ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	147 100 140 130 131 81 129 91 131 103 130 80 130 107 0 130 129 106 0 205 205 205 205 205 205 205 205 205 205 205 205 205 # 電撃ゲート１Ｌ 
+	-1612.0 -37.0 -1798.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{dgat} # Item ID 
+		0.000000 80.000000 0.000000 # rotation 
+		{0000} # item local version 
+		16000.000000 # Gate Health 
+	}
+	{
+		{_eof}
+	}
+}
+# 電撃ゲート７Ｇ 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	147 100 140 130 131 81 129 91 131 103 130 86 130 102 0 130 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 電撃ゲート７Ｇ 
+	1390.0 -25.90011 1083.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{dgat} # Item ID 
+		0.000000 -140.000000 0.000000 # rotation 
+		{0000} # item local version 
+		16000.000000 # Gate Health 
+	}
+	{
+		{_eof}
+	}
+}
+# 岩の栓７Ｆ（yakushima_3のフタ） 
+{
+	{v0.1} # Version 
+	3 # Reserved 
+	0 # Days till resurrection 
+	138 226 130 204 144 240 130 86 130 101 129 105 121 97 107 117 115 104 105 109 97 95 51 130 204 131 116 131 94 129 106 0 # 岩の栓７Ｆ（yakushima_3のフタ） 
+	1408.713989 -97.0 1625.213989 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{barl} # Item ID 
+		0.000000 -60.000000 0.000000 # rotation 
+		{0000} # item local version 
+	}
+	{
+		{_eof}
+	}
+}
+# ★：目くらウミムシ（turi_uki） 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 150 218 130 173 130 231 131 69 131 126 131 128 131 86 129 105 116 117 114 105 95 117 107 105 129 106 0 0 # ★：目くらウミムシ（turi_uki） 
+	950.0 -57.0 475.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	101 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	45.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	10 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	1.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# ★：nut_l 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 110 117 116 95 108 0 105 145 83 150 132 130 220 130 232 129 106 0 130 232 129 106 0 106 0 0 0 0 # ★：nut_l 
+	-600.0 28.0 -3600.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -45.0 0.0 # Rotation 
+		{0000} # Local version 
+		118 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# ★：g_futa_daisen 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 103 95 102 117 116 97 95 100 97 105 115 101 110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ★：g_futa_daisen 
+	1130.0 170.0 -800.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -135.0 0.0 # Rotation 
+		{0000} # Local version 
+		172 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# ★：denchi_2_red 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 100 101 110 99 104 105 95 50 95 114 101 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ★：denchi_2_red 
+	-2000.0 -37.0 -1600.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -38.0 0.0 # Rotation 
+		{0000} # Local version 
+		140 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# ★：yoyo_blue 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 121 111 121 111 95 98 108 117 101 0 101 114 95 109 101 100 97 108 0 114 95 109 101 100 97 108 129 0 # ★：yoyo_blue 
+	55.0 167.910004 -865.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 135.0 0.0 # Rotation 
+		{0000} # Local version 
+		77 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# ★：akagai（全埋まり） 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	850.0 -57.0 1750.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		152 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# ★：momiji_kare（全埋まり） 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 109 111 109 105 106 105 95 107 97 114 101 129 105 145 83 150 132 130 220 130 232 129 106 0 0 0 0 0 # ★：momiji_kare（全埋まり） 
+	-875.0 -18.440001 2025.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 45.0 0.0 # Rotation 
+		{0000} # Local version 
+		53 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# ガスヒバ４Ｋ（ゲート） 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	99 # Days till resurrection 
+	131 75 131 88 131 113 131 111 130 83 130 106 129 105 131 81 129 91 131 103 129 106 0 0 0 0 0 0 0 0 0 0 # ガスヒバ４Ｋ（ゲート） 
+	-435.0 89.010002 -1297.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	21 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	0.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	8 # Pellet Max 
+	0.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# ガスヒバ４Ｋ（ゲート） 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	99 # Days till resurrection 
+	131 75 131 88 131 113 131 111 130 83 130 106 129 105 131 81 129 91 131 103 129 106 0 0 0 0 0 0 0 0 0 0 # ガスヒバ４Ｋ（ゲート） 
+	-335.0 89.010002 -1280.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	21 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	0.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	8 # Pellet Max 
+	0.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# トビンコ（２匹）５Ｉ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 103 131 114 131 147 131 82 129 105 130 81 149 67 129 106 130 84 130 104 0 106 0 106 0 0 0 0 0 0 0 0 # トビンコ（２匹）５Ｉ 
+	275.0 16.47803 -275.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	14 
+	0 # Teki Birth Type 
+	2 # Teki Number 
+	150.0 # Face Direction 
+	2 # 0: Point, 1: Circle 
+	60.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# トビンコ（３匹）４Ｉ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 103 131 114 131 147 131 82 129 105 130 82 149 67 129 106 130 83 130 104 0 0 0 0 0 0 0 0 0 0 0 0 # トビンコ（３匹）４Ｉ 
+	-25.0 0.0 -75.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	14 
+	0 # Teki Birth Type 
+	3 # Teki Number 
+	330.0 # Face Direction 
+	2 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# トビンコ（３匹）１Ｊ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 103 131 114 131 147 131 82 129 105 130 82 149 67 129 106 130 80 130 105 0 0 0 0 0 0 0 0 0 0 0 0 # トビンコ（３匹）１Ｊ 
+	-1850.0 -21.031073 -425.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	14 
+	0 # Teki Birth Type 
+	3 # Teki Number 
+	115.0 # Face Direction 
+	2 # 0: Point, 1: Circle 
+	80.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# サライ３Ｌ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 84 131 137 131 67 130 82 130 107 0 138 130 81 130 105 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # サライ３Ｌ 
+	-650.0 52.885849 -1800.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	23 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	150.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	3 # Pellet Max 
+	0.300000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# サライ５Ｋ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 84 131 137 131 67 130 84 130 106 0 138 130 81 130 105 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # サライ５Ｋ 
+	375.0 7.248117 -1375.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	23 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	240.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	3 # Pellet Max 
+	0.300000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# ナマズ（２匹）４Ｅ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 105 131 125 131 89 129 105 130 81 149 67 129 106 130 83 130 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ナマズ（２匹）４Ｅ 
+	-150.0 -57.0 1950.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	26 
+	0 # Teki Birth Type 
+	2 # Teki Number 
+	0.0 # Face Direction 
+	2 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# ナマズ（２匹）４Ｎ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 105 131 125 131 89 129 105 130 81 149 67 129 106 130 83 130 109 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ナマズ（２匹）４Ｎ 
+	-400.0 -57.0 -2950.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	26 
+	0 # Teki Birth Type 
+	2 # Teki Number 
+	0.0 # Face Direction 
+	2 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# ナマズ（３匹）２Ｈ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 105 131 125 131 89 129 105 130 82 149 67 129 106 130 81 130 103 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ナマズ（３匹）２Ｈ 
+	-1250.0 -57.0 550.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	26 
+	0 # Teki Birth Type 
+	3 # Teki Number 
+	0.0 # Face Direction 
+	2 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# シャコモドキ２Ｏ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 86 131 131 131 82 131 130 131 104 131 76 130 81 130 110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # シャコモドキ２Ｏ 
+	-1100.0 -57.0 -3200.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	63 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	320.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# シャコモドキ３Ｎ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 86 131 131 131 82 131 130 131 104 131 76 130 82 130 109 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # シャコモドキ３Ｎ 
+	-900.0 -57.0 -3000.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	63 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	285.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.400000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# フロッグ１Ｊ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	131 116 131 141 131 98 131 79 130 80 130 105 0 105 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # フロッグ１Ｊ 
+	-1875.0 -57.0 -775.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	17 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	30.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	5 # Pellet size 
+	1 # Pellet Min 
+	1 # Pellet Max 
+	0.500000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# フロッグ２Ｍ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	131 116 131 141 131 98 131 79 130 81 130 108 0 108 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # フロッグ２Ｍ 
+	-1475.0 -57.0 -2125.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	17 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	0.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	5 # Pellet size 
+	1 # Pellet Min 
+	1 # Pellet Max 
+	0.500000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# フロッグ３Ｆ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	131 116 131 141 131 98 131 79 130 82 130 101 0 101 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # フロッグ３Ｆ 
+	-1050.0 -57.0 1750.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	17 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	45.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	5 # Pellet size 
+	1 # Pellet Min 
+	1 # Pellet Max 
+	0.500000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# フロッグ５Ｆ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	131 116 131 141 131 98 131 79 130 84 130 101 0 101 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # フロッグ５Ｆ 
+	400.0 -57.0 1600.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	17 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	160.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	5 # Pellet size 
+	1 # Pellet Min 
+	1 # Pellet Max 
+	0.500000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# フロッグ６Ｇ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	131 116 131 141 131 98 131 79 130 85 130 102 0 101 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # フロッグ６Ｇ 
+	750.0 -57.0 1350.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	17 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	90.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	5 # Pellet size 
+	1 # Pellet Min 
+	1 # Pellet Max 
+	0.500000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# 火タンク５Ｋ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	137 206 131 94 131 147 131 78 130 84 130 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 火タンク５Ｋ 
+	550.0 17.690433 -1000.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	24 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	180.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	1 # Pellet color 
+	5 # Pellet size 
+	1 # Pellet Min 
+	2 # Pellet Max 
+	0.500000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# ハナチラシ４Ｎ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	4 # Days till resurrection 
+	131 110 131 105 131 96 131 137 131 86 130 83 130 109 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ハナチラシ４Ｎ 
+	0.0 -57.0 -3000.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	55 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	315.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	5 # Pellet Max 
+	0.600000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# イモムシ５Ｋ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 67 131 130 131 128 131 86 130 84 130 106 0 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # イモムシ５Ｋ 
+	325.0 24.643063 -1025.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	65 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	60.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	85.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	8 # Pellet Max 
+	0.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# イモムシ５Ｋ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 67 131 130 131 128 131 86 130 84 130 106 0 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # イモムシ５Ｋ 
+	425.0 12.901083 -1200.0 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	65 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	20.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	8 # Pellet Max 
+	0.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# イモムシ５Ｋ 
+{
+	{v0.1} # Version 
+	5 # Reserved 
+	3 # Days till resurrection 
+	131 67 131 130 131 128 131 86 130 84 130 106 0 129 106 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # イモムシ５Ｋ 
+	625.0 16.269734 -700.0 # Position 
+	0.0 0.0 0.0 # Offset 
+	{teki} {0005} 	65 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	210.000000 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	85.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	8 # Pellet Max 
+	0.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+{
+	{v0.3} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	131 73 131 73 131 67 131 107 130 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # オオイヌｓ 
+	-410.4 -0.415032 -34.2 # Position 
+	0 0.0 0 # Offset 
+	{teki} {0005} 	56 
+	0 # Teki Birth Type 
+	1 # Teki Number 
+	180.0 # Face Direction 
+	1 # 0: Point, 1: Circle 
+	100.000000 # appear radius 
+	0.000000 # enemy size 
+	0 # Treasure item code 
+	3 # Pellet color 
+	1 # Pellet size 
+	1 # Pellet Min 
+	8 # Pellet Max 
+	0.000000 # Pellet Min 
+	{????}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-1139.2 -1.298427 42.2 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		145 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	736.0 -57.0 407.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		141 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-517.2 10.81 221.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		35 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-225.2 0.0 37.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		72 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-725.2 11.625504 -207.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		159 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	210.8 0.0 49.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		153 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-733.2 4.780899 9.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		84 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-493.2 1.18491 -195.0 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		34 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-564.4 9.418162 -2150.6 # Position 
+	0 0.0 0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		178 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-404.4 23.825913 -2003.4 # Position 
+	0.0 0.0 0.0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		174 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
+# Treasure 
+{
+	{v0.1} # Version 
+	11 # Reserved 
+	0 # Days till resurrection 
+	129 154 129 70 97 107 97 103 97 105 129 105 145 83 150 132 130 220 130 232 129 106 0 101 110 116 108 101 129 106 0 0 # ★：akagai（全埋まり） 
+	-346.8 10.209722 -2150.6 # Position 
+	0.0 0.0 0.0 # Offset 
+	{pelt} {0000} 
+	{
+		3 # Treasure category: 3=regular, 4=exploration kit 
+		0.0 -120.0 0.0 # Rotation 
+		{0000} # Local version 
+		51 # Identifier of treasure, see https://pikmintkb.com/wiki/Pikmin_2_identifiers	 
+	}
+	{
+		{_eof}
+	}
+}
