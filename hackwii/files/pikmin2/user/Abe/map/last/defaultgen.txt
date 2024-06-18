@@ -1,0 +1,215 @@
+{v0.1}
+0.0 0.0 0.0 
+0.0
+10
+# âFíàëD 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	137 70 146 136 145 68 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # âFíàëD 
+	-3130.879883 0.0 -1043.099976 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{onyn} # Item ID 
+		0.000000 -41.220001 0.000000 # rotation 
+		{0001} # item local version 
+		4 # Onion type: 0=blue, 1=red, 2=yellow, 4=rocket 
+		1 # after boot? true==1 
+	}
+	{
+		{_eof}
+	}
+}
+# ê‘ÉIÉjÉàÉì 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	144 212 131 73 131 106 131 136 131 147 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # ê‘ÉIÉjÉàÉì 
+	-3390.689941 0.0 -1000.190002 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{onyn} # Item ID 
+		0.000000 31.120001 0.000000 # rotation 
+		{0001} # item local version 
+		1 # Onion type: 0=blue, 1=red, 2=yellow, 4=rocket 
+		1 # after boot? true==1 
+	}
+	{
+		{_eof}
+	}
+}
+# ê¬ÉIÉjÉàÉì 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	144 194 131 73 131 106 131 136 131 147 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # ê¬ÉIÉjÉàÉì 
+	-3182.139893 0.0 -732.187012 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{onyn} # Item ID 
+		0.000000 -135.000000 0.000000 # rotation 
+		{0001} # item local version 
+		0 # Onion type: 0=blue, 1=red, 2=yellow, 4=rocket 
+		1 # after boot? true==1 
+	}
+	{
+		{_eof}
+	}
+}
+# â©ÉIÉjÉàÉì 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	137 169 131 73 131 106 131 136 131 147 0 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 205 # â©ÉIÉjÉàÉì 
+	-3454.949951 0.0 -645.017029 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{onyn} # Item ID 
+		0.000000 142.910004 0.000000 # rotation 
+		{0001} # item local version 
+		2 # Onion type: 0=blue, 1=red, 2=yellow, 4=rocket 
+		1 # after boot? true==1 
+	}
+	{
+		{_eof}
+	}
+}
+# last_3Å|ç≈í·ç≈à´ 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	108 97 115 116 95 51 129 124 141 197 146 225 141 197 136 171 0 138 129 91 0 138 129 91 0 64 0 0 0 0 0 0 # last_3Å|ç≈í·ç≈à´ 
+	-22.639404 -30.000002 638.376099 # Position 
+	0 0 0 # Offset 
+	{item} {0002} 
+	{
+		{cave} # Item ID 
+		0.0 -80.0 0.0 # rotation 
+		{0002} # item local version 
+		last_3.txt
+		yakushima_2_units.txt
+		{l_03}
+		{
+			{fg00} 4 1.000000 
+			{fg01} 4 650.000000 
+			{fg02} 4 1.500000 
+			{fg03} 4 2.000000 
+			{fg04} 1 42 
+			{fg05} 1 55 
+			{fg06} 1 45 
+			{fg07} 4 6000.000000 
+			{fg08} 4 200.000000 
+			{fg09} 4 205.000000 
+			{_eof}
+		}
+	}
+	{
+		{_eof}
+	}
+}
+# ÉcÉÜÉNÉTÇQÇd 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	131 99 131 134 131 78 131 84 130 81 130 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ÉcÉÜÉNÉTÇQÇd 
+	-3011.674561 0.0 1927.029419 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{plnt} # Item ID 
+		0.000000 -90.000000 0.000000 # rotation 
+		{0001} # item local version 
+		2 # Berry type: 0=Red, 1=purple, 2=mixed 
+	}
+	{
+		{_eof}
+	}
+}
+# ÉcÉÜÉNÉTÇPÇe 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	131 99 131 134 131 78 131 84 130 80 130 101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ÉcÉÜÉNÉTÇPÇe 
+	-3285.303711 0.966042 1629.921021 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{plnt} # Item ID 
+		0.000000 60.000000 0.000000 # rotation 
+		{0001} # item local version 
+		2 # Berry type: 0=Red, 1=purple, 2=mixed 
+	}
+	{
+		{_eof}
+	}
+}
+# ÉcÉÜÉNÉTÇPÇd 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	131 99 131 134 131 78 131 84 130 80 130 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # ÉcÉÜÉNÉTÇPÇd 
+	-3420.05957 0.0 2105.886719 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{plnt} # Item ID 
+		0.000000 180.000000 0.000000 # rotation 
+		{0001} # item local version 
+		2 # Berry type: 0=Red, 1=purple, 2=mixed 
+	}
+	{
+		{_eof}
+	}
+}
+# è¨ä‚ÇPÇk 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	143 172 138 226 130 80 130 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # è¨ä‚ÇPÇk 
+	-3215.310791 75.0 -1574.982788 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{weed} # Item ID 
+		0.000000 0.000000 0.000000 # rotation 
+		{0001} # item local version 
+		50
+		0
+	}
+	{
+		{_eof}
+	}
+}
+# è¨ä‚ÇPÇh 
+{
+	{v0.1} # Version 
+	0 # Reserved 
+	0 # Days till resurrection 
+	143 172 138 226 130 80 130 104 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # è¨ä‚ÇPÇh 
+	-3439.951416 0.0 -17.24823 # Position 
+	0.0 0.0 0.0 # Offset 
+	{item} {0002} 
+	{
+		{weed} # Item ID 
+		0.000000 0.000000 0.000000 # rotation 
+		{0001} # item local version 
+		50
+		0
+	}
+	{
+		{_eof}
+	}
+}
