@@ -1,0 +1,185 @@
+# Caveinfo - Made with Drought Ender's Cave Creator
+{
+	{c000} 4 3 	# Floor Count
+	{_eof} 
+}
+3 # FloorInfo
+{
+	{f000} 4 0 	# Floor Start
+	{f001} 4 0 	# Floor End
+	{f002} 4 23 	# Teki Spawns
+	{f003} 4 3 	# Treasure Spawns
+	{f004} 4 7 	# Gate Spawns
+	{f014} 4 50 	# Dead End Percent
+	{f005} 4 9 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 4_units_cent_north_mid1_mid2_tsuchi.txt 	# Units File
+	{f009} -1 normal_light_lv0.ini 	# Lighting File
+	{f00A} -1 none 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	9 	# num
+	UjiB 40 	# weight
+	0 	# type
+	Chappy 30 	# weight
+	1 	# type
+	Clover 4 	# weight
+	6 	# type
+	Tukushi 2 	# weight
+	6 	# type
+	KareOoinu_s 2 	# weight
+	6 	# type
+	Kochappy 40 	# weight
+	0 	# type
+	Kochappy 70 	# weight
+	0 	# type
+	BlueKochappy 30 	# weight
+	1 	# type
+	Chappy_donutswhite 10 	# weight
+	0 	# type
+}
+# Iteminfo
+{
+	3 	# num
+	juji_key_fc 10 	# weight
+	diamond_blue_l 10 	# weight
+	dia_c_green 10 	# weight
+}
+# Gateinfo
+{
+	1 	# num
+	gate 1000.00 	# life
+	1 	# weight
+}
+# Capinfo
+{
+	1 	# num
+	0 	# captype
+	Chappy_diamond_green_l 10 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 1 	# Floor Start
+	{f001} 4 1 	# Floor End
+	{f002} 4 20 	# Teki Spawns
+	{f003} 4 5 	# Treasure Spawns
+	{f004} 4 12 	# Gate Spawns
+	{f014} 4 10 	# Dead End Percent
+	{f005} 4 14 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 5_units_hit2_hit3_hit4_nor2_nor3_queenc_tsuchi.txt 	# Units File
+	{f009} -1 normal_light_lv3.ini 	# Lighting File
+	{f00A} -1 none 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	8 	# num
+	Queen_dashboots 10 	# weight
+	8 	# type
+	BlackPom 10 	# weight
+	8 	# type
+	HikariKinoko 1 	# weight
+	6 	# type
+	Chappy_g_futa_sikoku 10 	# weight
+	1 	# type
+	Kabuto 20 	# weight
+	0 	# type
+	Tank 20 	# weight
+	1 	# type
+	BlueChappy_dia_a_green 10 	# weight
+	0 	# type
+	MaroFrog_diamond_red_l 10 	# weight
+	0 	# type
+}
+# Iteminfo
+{
+	5 	# num
+	dia_b_blue 10 	# weight
+	whistle 10 	# weight
+	tatebue 10 	# weight
+	g_futa_kyusyu 10 	# weight
+	donutsichigo_s 10 	# weight
+}
+# Gateinfo
+{
+	1 	# num
+	gate 1000.00 	# life
+	1 	# weight
+}
+# Capinfo
+{
+	1 	# num
+	0 	# captype
+	MaroFrog 20 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 2 	# Floor Start
+	{f001} 4 2 	# Floor End
+	{f002} 4 13 	# Teki Spawns
+	{f003} 4 1 	# Treasure Spawns
+	{f004} 4 1 	# Gate Spawns
+	{f014} 4 0 	# Dead End Percent
+	{f005} 4 2 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 1 	# Place Geyser
+	{f008} -1 2_MAT_kingA_kingB_tsuchi.txt 	# Units File
+	{f009} -1 king_light.ini 	# Lighting File
+	{f00A} -1 none 	# Skybox
+	{f010} 4 1 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	4 	# num
+	FireChappy_key 10 	# weight
+	1 	# type
+	Hiba 99 	# weight
+	8 	# type
+	Zenmai 7 	# weight
+	6 	# type
+	KareOoinu_s 8 	# weight
+	6 	# type
+}
+# Iteminfo
+{
+	1 	# num
+	castanets 10 	# weight
+}
+# Gateinfo
+{
+	1 	# num
+	gate 4000.00 	# life
+	1 	# weight
+}
+# Capinfo
+{
+	0 	# num
+}

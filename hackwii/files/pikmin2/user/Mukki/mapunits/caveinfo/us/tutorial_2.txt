@@ -1,0 +1,464 @@
+# Caveinfo - Made with Drought Ender's Cave Creator
+{
+	{c000} 4 7 	# Floor Count
+	{_eof} 
+}
+7 # FloorInfo
+{
+	{f000} 4 0 	# Floor Start
+	{f001} 4 0 	# Floor End
+	{f002} 4 19 	# Teki Spawns
+	{f003} 4 1 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 0 	# Dead End Percent
+	{f005} 4 3 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 2_units_mid2_north_metal.txt 	# Units File
+	{f009} -1 tutorial_1_light.ini 	# Lighting File
+	{f00A} -1 ice 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	10 	# num
+	BlueChappy_gum_tape 10 	# weight
+	1 	# type
+	BlueChappy 10 	# weight
+	1 	# type
+	Sarai 10 	# weight
+	1 	# type
+	BlueKochappy 10 	# weight
+	1 	# type
+	BlueKochappy 30 	# weight
+	0 	# type
+	BlueKochappy 30 	# weight
+	0 	# type
+	BlueKochappy 20 	# weight
+	0 	# type
+	$1Sarai 10 	# weight
+	1 	# type
+	GasHiba 10 	# weight
+	1 	# type
+	GasHiba 50 	# weight
+	5 	# type
+}
+# Iteminfo
+{
+	1 	# num
+	gum_tape_s 10 	# weight
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	3 	# num
+	0 	# captype
+	Egg 10 	# weight
+	1 	# type
+	0 	# captype
+	$1Sarai 10 	# weight
+	1 	# type
+	0 	# captype
+	Egg 10 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 1 	# Floor Start
+	{f001} 4 1 	# Floor End
+	{f002} 4 20 	# Teki Spawns
+	{f003} 4 2 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 5 	# Dead End Percent
+	{f005} 4 4 	# Rooms Placed
+	{f006} 4 0.030000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 3_units_mid2_hit6_hit7_metal.txt 	# Units File
+	{f009} -1 metal_light_lv1.ini 	# Lighting File
+	{f00A} -1 ice 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	9 	# num
+	BombSarai 30 	# weight
+	1 	# type
+	ElecBug 20 	# weight
+	1 	# type
+	Bomb 20 	# weight
+	1 	# type
+	$1Bomb 11 	# weight
+	0 	# type
+	$2Bomb 11 	# weight
+	0 	# type
+	$4Bomb 20 	# weight
+	0 	# type
+	DaiodoRed 4 	# weight
+	6 	# type
+	DaiodoGreen 4 	# weight
+	6 	# type
+	ElecHiba 40 	# weight
+	5 	# type
+}
+# Iteminfo
+{
+	2 	# num
+	sinkukan_c 10 	# weight
+	gear_silver 10 	# weight
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	1 	# num
+	0 	# captype
+	Egg 20 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 2 	# Floor Start
+	{f001} 4 2 	# Floor End
+	{f002} 4 10 	# Teki Spawns
+	{f003} 4 2 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 40 	# Dead End Percent
+	{f005} 4 6 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 2_MAT_h224_h443_tekiF_metal.txt 	# Units File
+	{f009} -1 metal_light_lv2.ini 	# Lighting File
+	{f00A} -1 ice 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	8 	# num
+	Fkabuto_bolt 10 	# weight
+	8 	# type
+	Kabuto 10 	# weight
+	8 	# type
+	WhitePom 10 	# weight
+	8 	# type
+	MiniHoudai 10 	# weight
+	1 	# type
+	Hiba 50 	# weight
+	1 	# type
+	Hiba 10 	# weight
+	0 	# type
+	DaiodoRed 8 	# weight
+	6 	# type
+	DaiodoGreen 8 	# weight
+	6 	# type
+}
+# Iteminfo
+{
+	2 	# num
+	gear 10 	# weight
+	nut_l 10 	# weight
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	1 	# num
+	0 	# captype
+	Egg 30 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 3 	# Floor Start
+	{f001} 4 3 	# Floor End
+	{f002} 4 31 	# Teki Spawns
+	{f003} 4 2 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 0 	# Dead End Percent
+	{f005} 4 1 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 1_units_nobo2_metal.txt 	# Units File
+	{f009} -1 metal_light_lv1.ini 	# Lighting File
+	{f00A} -1 test 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	19 	# num
+	BombOtakara 30 	# weight
+	1 	# type
+	$1BombOtakara 30 	# weight
+	1 	# type
+	Bomb 31 	# weight
+	0 	# type
+	Bomb 22 	# weight
+	0 	# type
+	Bomb 20 	# weight
+	0 	# type
+	Bomb 20 	# weight
+	0 	# type
+	$1Bomb 30 	# weight
+	1 	# type
+	$1Bomb 10 	# weight
+	0 	# type
+	$1Bomb 11 	# weight
+	0 	# type
+	$1Bomb 10 	# weight
+	0 	# type
+	$1Bomb 10 	# weight
+	0 	# type
+	$1Bomb 10 	# weight
+	0 	# type
+	$1Bomb 10 	# weight
+	0 	# type
+	Bomb 20 	# weight
+	0 	# type
+	Bomb 20 	# weight
+	0 	# type
+	Bomb 20 	# weight
+	0 	# type
+	DaiodoRed 6 	# weight
+	6 	# type
+	DaiodoGreen 6 	# weight
+	6 	# type
+	Kabuto 10 	# weight
+	1 	# type
+}
+# Iteminfo
+{
+	2 	# num
+	mojiban 10 	# weight
+	nut 10 	# weight
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	1 	# num
+	0 	# captype
+	BombOtakara 20 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 4 	# Floor Start
+	{f001} 4 4 	# Floor End
+	{f002} 4 20 	# Teki Spawns
+	{f003} 4 3 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 30 	# Dead End Percent
+	{f005} 4 6 	# Rooms Placed
+	{f006} 4 0.100000 	# Corridor Chance
+	{f007} 4 1 	# Place Geyser
+	{f008} -1 4_units_nobo_hit224_235_344_metal.txt 	# Units File
+	{f009} -1 chikahimi_metal_light_lv4.ini 	# Lighting File
+	{f00A} -1 test 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 5 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	12 	# num
+	BombSarai 20 	# weight
+	1 	# type
+	GasHiba 20 	# weight
+	1 	# type
+	ElecBug 60 	# weight
+	0 	# type
+	ElecOtakara 11 	# weight
+	0 	# type
+	FireOtakara 10 	# weight
+	0 	# type
+	GasOtakara 10 	# weight
+	0 	# type
+	WaterOtakara 11 	# weight
+	0 	# type
+	GasHiba 10 	# weight
+	5 	# type
+	DaiodoRed 6 	# weight
+	6 	# type
+	DaiodoGreen 6 	# weight
+	6 	# type
+	BombOtakara 01 	# weight
+	1 	# type
+	$4Bomb 11 	# weight
+	0 	# type
+}
+# Iteminfo
+{
+	3 	# num
+	sinkukan 10 	# weight
+	channel 10 	# weight
+	bolt_l 10 	# weight
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	1 	# num
+	0 	# captype
+	Egg 10 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 5 	# Floor Start
+	{f001} 4 5 	# Floor End
+	{f002} 4 28 	# Teki Spawns
+	{f003} 4 1 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 50 	# Dead End Percent
+	{f005} 4 4 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 0 	# Place Geyser
+	{f008} -1 3_MAT_ari_h446_h443_tower_metal.txt 	# Units File
+	{f009} -1 houdai_light.ini 	# Lighting File
+	{f00A} -1 build 	# Skybox
+	{f010} 4 0 	# Clog Hole
+	{f011} 4 1 	# Echo Strength
+	{f012} 4 0 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	13 	# num
+	FminiHoudai_sinkukan_b 10 	# weight
+	8 	# type
+	MiniHoudai 10 	# weight
+	1 	# type
+	BombSarai 10 	# weight
+	5 	# type
+	Bomb 40 	# weight
+	1 	# type
+	Bomb 30 	# weight
+	0 	# type
+	Bomb 30 	# weight
+	0 	# type
+	Bomb 30 	# weight
+	0 	# type
+	Bomb 30 	# weight
+	0 	# type
+	Bomb 30 	# weight
+	0 	# type
+	Bomb 30 	# weight
+	0 	# type
+	Bomb 30 	# weight
+	0 	# type
+	DaiodoRed 7 	# weight
+	6 	# type
+	DaiodoGreen 7 	# weight
+	6 	# type
+}
+# Iteminfo
+{
+	1 	# num
+	tape_red 10 	# weight
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	2 	# num
+	0 	# captype
+	Egg 20 	# weight
+	1 	# type
+	0 	# captype
+	BombOtakara 11 	# weight
+	1 	# type
+}
+# FloorInfo
+{
+	{f000} 4 6 	# Floor Start
+	{f001} 4 6 	# Floor End
+	{f002} 4 1 	# Teki Spawns
+	{f003} 4 0 	# Treasure Spawns
+	{f004} 4 0 	# Gate Spawns
+	{f014} 4 0 	# Dead End Percent
+	{f005} 4 1 	# Rooms Placed
+	{f006} 4 0.000000 	# Corridor Chance
+	{f007} 4 1 	# Place Geyser
+	{f008} -1 1_units_houdai_metal.txt 	# Units File
+	{f009} -1 houdai_light.ini 	# Lighting File
+	{f00A} -1 build 	# Skybox
+	{f010} 4 1 	# Clog Hole
+	{f011} 4 1 	# Echo Strength
+	{f012} 4 1 	# Music Type
+	{f013} 4 0 	# Skybox Plane
+	{f015} 4 1 	# Use Capinfo
+	{f016} 4 0.000000 	# Waterwraith Timer
+	{f017} 4 0 	# Spawn Seesaw
+	{_eof} 
+}
+# TekiInfo
+{
+	3 	# num
+	Houdai_light_a 10 	# weight
+	1 	# type
+	DaiodoRed 5 	# weight
+	6 	# type
+	DaiodoGreen 5 	# weight
+	6 	# type
+}
+# Iteminfo
+{
+	0 	# num
+}
+# Gateinfo
+{
+	0 	# num
+}
+# Capinfo
+{
+	0 	# num
+}
